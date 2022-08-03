@@ -11,6 +11,7 @@ This project is a **`mock`** booking app with some basic functionalities:
  
 > Add/Delete new accommodation *(admin type of functionality ops)* 😊
 
-#### Main Tehnologies: React, TypeScript
+#### Front-end: React, TypeScript
+#### Back-end: Spring, Java
 ## App preview
-![](public/demo.gif)
+![](demo.gif)
