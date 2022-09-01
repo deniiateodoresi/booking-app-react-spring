@@ -6,3 +6,10 @@ accommodations_api/target
 accommodations_api/HELP.md
 accommodations_api/mvnw
 accommodations_api/mvnw.cmd
+accommodations_api/HELP.md
+accommodations_api/!.mvn/wrapper/maven-wrapper.jar
+accommodations_api/!**/src/main/**/target/
+accommodations_api/!**/src/test/**/target/
+accommodations_api/*.iws
+accommodations_api/*.iml
+accommodations_api/*.ipr

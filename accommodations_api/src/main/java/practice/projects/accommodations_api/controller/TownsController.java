@@ -1,7 +1,6 @@
-package codemart.projects.accommodations_api.controller;
+package practice.projects.accommodations_api.controller;
 
-import codemart.projects.accommodations_api.domain.AccommodationTown;
-import codemart.projects.accommodations_api.domain.AccommodationType;
+import practice.projects.accommodations_api.domain.AccommodationTown;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

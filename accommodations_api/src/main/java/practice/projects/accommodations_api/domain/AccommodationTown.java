@@ -1,4 +1,4 @@
-package codemart.projects.accommodations_api.domain;
+package practice.projects.accommodations_api.domain;
 
 public enum AccommodationTown {
     BUCURESTI,
