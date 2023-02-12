@@ -1,6 +1,6 @@
 # Booking App
 
-This project is a **`mock`** booking app with some basic functionalities:
+This project is a **`mock`** booking app developed as an exercise in order to learn React. Basic functionalities:
 
 - See a list of all available accommodations
 
